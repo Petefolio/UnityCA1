@@ -1371,7 +1371,7 @@ MonoBehaviour:
   m_EnableInputActions: 1
   m_ModelPrefab: {fileID: 0}
   m_ModelParent: {fileID: 674075644}
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 33660912998779291}
   m_AnimateModel: 0
   m_ModelSelectTransition: 
   m_ModelDeSelectTransition: 
@@ -2129,7 +2129,7 @@ MonoBehaviour:
   m_EnableInputActions: 1
   m_ModelPrefab: {fileID: 0}
   m_ModelParent: {fileID: 876132380}
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 6299659265219331643}
   m_AnimateModel: 0
   m_ModelSelectTransition: 
   m_ModelDeSelectTransition: 
@@ -3226,6 +3226,7 @@ GameObject:
   - component: {fileID: 1507411180}
   - component: {fileID: 1507411184}
   - component: {fileID: 1507411183}
+  - component: {fileID: 1507411185}
   m_Layer: 0
   m_Name: XR Origin (XR Rig)
   m_TagString: Untagged
@@ -3336,6 +3337,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Timeout: 10
   m_XROrigin: {fileID: 1507411181}
+--- !u!114 &1507411185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1507411179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01f69dc1cb084aa42b2f2f8cd87bc770, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_System: {fileID: 1507411184}
+  m_DelayTime: 0
 --- !u!1 &1590283480
 GameObject:
   m_ObjectHideFlags: 0
