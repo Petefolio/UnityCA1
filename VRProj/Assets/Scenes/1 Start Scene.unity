@@ -4385,11 +4385,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'This game was made by XXX in 7 days for the VR Jam 2023.
+  m_text: 'Make your way through the line using the control sticks. Pick up luggage
+    to clear your path using the triggers.
 
 
-    Special
-    shoutout to my mom for always believing in me and to my pet penguin alfred. '
+    When youa rrive at the customs checkpoint,
+    choose the option most likely to please the security guard.
+
+
+    If you reach
+    the end, press one button to return to the main menu and the other to start the
+    level over.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5b036e831c0c90547b32a8a896d80f79, type: 2}
   m_sharedMaterial: {fileID: 6988543560108305873, guid: cb4516ac98eb5854ea4d7a8f558eb4da,
